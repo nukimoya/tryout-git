@@ -1,0 +1,411 @@
+body
+{
+    margin: 0px;
+    background-color: aliceblue;
+}
+.first_do
+{
+    height: 650px;
+    background-image: linear-gradient(to bottom, rgb(88, 88, 247),rgb(43, 43, 242),rgb(0, 0, 181));
+}
+.logo_back
+{
+    height: 55px;
+    background-color: rgb(65, 65, 251);
+}
+.logo
+{
+    padding-left: 200px;
+    float: left;
+    padding-top: 10px;
+}
+.logo img
+{
+    width: 130px;
+}
+.nav
+{
+    padding-top: 15px;
+    margin-right: 150px;
+    float: left;
+}
+.nav a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.nav a:hover
+{
+    color: black;
+    text-decoration: underline;
+}
+.top_text
+{
+    float: left;
+    padding-left: 200px;
+    padding-top: 120px;
+    color: white;
+    width: 500px;
+}
+.top_text h1
+{
+    font-size: 40px;
+}
+.top_button
+{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    border-style: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(94, 255, 0),rgb(102, 246, 133),rgb(174, 255, 149));
+}
+.top_button:hover
+{
+    background-image: linear-gradient(to left, rgb(94, 255, 0),rgb(102, 246, 133),rgb(174, 255, 149));
+}
+.top_image
+{
+    
+    padding-left: 35px;
+    float: left;
+}
+.top_image img
+{
+    width: 695px;
+}
+.second
+{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.top_second
+{
+    color: rgb(55, 55, 111);
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.top_second h1
+{
+    font-size: 30px;
+}
+.top_bottom
+{
+    margin: 0 auto;
+    width: 1000px;
+    height: 320px;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(88, 88, 247),rgb(43, 43, 242),rgb(0, 0, 181));
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.buy
+{
+    float: left;
+    width: 320px;
+    text-align: center;
+    margin-right: 15px;
+}
+.buy_img
+{
+    padding-top: 30px;
+    height: 150px;
+}
+.buy_img img
+{
+    width: 150px;
+}
+.sell
+{
+    float: left;
+    width: 320px;
+    text-align: center;
+    margin-right: 15px;
+}
+.sell_img
+{
+    padding-top: 30px;
+    height: 150px;
+}
+.sell_img img
+{
+    width: 150px;
+}
+.invest
+{
+    float: left;
+    width: 320px;
+    text-align: center;
+}
+.invest_img
+{
+    padding-top: 30px;
+    height: 150px; 
+}
+.invest_img img
+{
+    width: 150px;
+}
+.third
+{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.third_move
+{
+    margin-top: 100px;
+}
+.third_img
+{
+    float: left;
+    margin-right: 100px;
+}
+.third_img img
+{
+    width: 450px;
+}
+.third_text
+{
+    float: left;
+    width: 500px;
+    color: rgb(55, 55, 111);
+}
+.third_button
+{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-image: linear-gradient(to left, rgb(88, 88, 247),rgb(43, 43, 242),rgb(0, 0, 181));
+    border-radius: 10px;
+    border-style: none;
+}
+.third_button:hover
+{
+    background-image: linear-gradient(to right, rgb(88, 88, 247),rgb(43, 43, 242),rgb(0, 0, 181));
+    color: black;
+}
+.fourth
+{
+    clear: both;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.fourth_center
+{
+    padding-top: 75px;
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(55, 55, 111);
+}
+.fourth_center_nice h2
+{
+    font-size: 40px;
+}
+.fourth_button
+{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: none;
+    background-image: linear-gradient(to right, rgb(94, 255, 0),rgb(102, 246, 133),rgb(174, 255, 149));
+}
+.fourth_button:hover
+{
+    background-image: linear-gradient(to left, rgb(94, 255, 0),rgb(102, 246, 133),rgb(174, 255, 149));
+}  
+.fifth
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fifth_back
+{
+    position: relative;
+    height: 600px;
+}
+.fifth_back img
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.count_left
+{
+    padding-left: 150px;
+    float: left;
+    width: 520px;
+}
+.count_left img
+{
+    width: 520px;
+}
+.count_right
+{
+    color: white;
+    padding-top: 20px;
+    padding-left: 750px;
+    width: 470px;
+    position: relative;
+    float: left;
+}
+.count_time
+{
+    height: 50px;
+    margin-top: 55px;
+    clear: both;
+}
+.days
+{
+    float: left;
+    margin-right: 35px;
+    font-size: 20px;
+}
+.days p
+{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+.hours
+{
+    float: left;
+    margin-right: 35px;
+    font-size: 20px;
+}
+.hours p
+{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+.mins
+{
+    float: left;
+    margin-right: 35px;
+    font-size: 20px;
+}
+.mins p
+{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+.secs
+{
+    float: left;
+    font-size: 20px;
+}
+.secs p
+{
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+.count_right_text
+{
+    padding-top: 5px;
+    clear: both;
+}
+.count_right_text h3
+{
+    font-size: 35px;
+}
+.count_button
+{
+    background-image: url();
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    background-image: linear-gradient(to right, rgb(60, 255, 0),rgb(105, 248, 62),rgb(102, 246, 133),rgb(148, 255, 116));
+}
+.count_button:hover
+{
+    background-image: linear-gradient(to left, rgb(60, 255, 0),rgb(105, 248, 62),rgb(148, 255, 116));
+    color: black;
+}
+.footer
+{
+    margin-top: 100px;
+}
+.footer_back
+{
+    position: relative;
+    height: 440px;
+}
+.footer_back img
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.footer_div
+{
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+    margin-bottom: 20px;
+}
+.footer_first
+{
+    float: left;
+    position: relative;
+    width: 300px;
+    margin-right: 25px;
+}
+.footer_first p
+{
+    padding-top: 180px;
+}
+.footer_first_one img
+{
+    position: absolute;
+    width: 200px;
+}
+.footer_first_two
+{
+    width: fit-content;
+}
+.footer_second
+{
+    padding-top: 70px;
+    float: left;
+    margin-right: 75px;
+    position: relative;
+}
+.footer_third
+{
+    margin-right: 75px;
+    padding-top: 70px;
+    float: left;
+    position: relative;
+}
+.footer_fourth
+{
+    padding-top: 70px;
+    float: left;
+    position: relative;
+    width: 250px;
+}
+.footer_fifth
+{
+    position: relative;
+    display: grid;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    padding-top: 10px;
+    border-color: white;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
